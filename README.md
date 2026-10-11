@@ -50,8 +50,6 @@ Things I'm going to check and clean:
 - Outliers in absences (the max in the math file is 75).
 - Overlap between the files. Around 380 students are in both, so I'm keeping the subjects separate instead of stacking them, which would count those students twice.
 
-I'll write the data dictionary for all 33 columns in the Milestone 0 notebook.
-
 ### Data analysis and visualization plan
 
 I'll start with descriptive stats (mean, median, min, max, std) for the grades and the main numeric columns, broken down by subject and school, and by sex and age where it makes sense. Grades are on a 0-20 scale and 10 is passing, so I'll also add a pass/fail column.
